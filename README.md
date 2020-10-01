@@ -24,3 +24,13 @@ The first generation is created by applying the above rules simultaneously to ev
 The rules continue to be applied repeatedly to create further generations.
 
 The game should be run in command line and print the data to standard output.
+
+***How use it? 
+
+Download the project files and run the file named magmalabs_test.rb
+
+   ruby magmalabs_test.rb
+   
+This will run the matrix that is already hard coded, to test some other test case it will be necessary to update the input
+
+The file spec_magmalab.rb contains a set of 20 unit tests, each of them test all the scenarios 
